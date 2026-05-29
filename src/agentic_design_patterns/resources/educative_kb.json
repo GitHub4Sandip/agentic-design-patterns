@@ -1,0 +1,19 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "question": "Is Educative working on any other AI courses?",
+      "answer": "Yes! Educative is actively developing a course on Agentic System Design, which teaches how to build AI agents that can plan, reason, and act using memory, tools, and retrieval. It's part of a broader AI initiative launching this year."
+    },
+    {
+      "id": 2,
+      "question": "What is the MCP course on Educative?",
+      "answer": "The MCP (Model Context Protocol) course explores how AI systems manage prompts, resources and tools efficiently when dealing with long-running conversations, complex tasks, and external tool use. It’s focused on designing protocols that help models stay grounded and relevant."
+    },
+    {
+      "id": 3,
+      "question": "What is the LlamaStack course on Educative?",
+      "answer": "LlamaStack is a hands-on course that walks learners through building a full-stack AI application using open-source models like Llama, vector search, and retrieval-augmented generation. It’s perfect for developers looking to go beyond the API."
+    }
+  ]
+}
